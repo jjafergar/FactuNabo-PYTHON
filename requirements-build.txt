@@ -1,0 +1,30 @@
+# Dependencias mínimas necesarias para compilar FactuNabo
+# Este archivo contiene solo las dependencias esenciales para el build
+
+# Framework GUI
+PySide6>=6.10.0
+
+# Procesamiento de datos
+pandas>=2.2.3
+openpyxl>=3.1.5
+numpy>=2.1.3
+
+# Validación XML
+xmlschema>=4.1.0
+lxml>=6.0.1
+
+# Comunicación HTTP
+requests>=2.32.4
+
+# Descarga de PDFs
+selenium>=4.36.0
+
+# Utilidades
+python-dateutil>=2.9.0
+pytz>=2024.2
+
+# Build tool
+pyinstaller>=6.16.0
+
+# Windows
+pywin32>=311

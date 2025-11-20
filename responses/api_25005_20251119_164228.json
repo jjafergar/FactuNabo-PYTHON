@@ -1,0 +1,14 @@
+{
+    "estado_envio_facturantia": "CORRECTO",
+    "tipo_sif": "VERIFACTU",
+    "verifactu_total_facturas_enviadas": 1,
+    "verifactu_total_facturas_correctas": 0,
+    "verifactu_total_facturas_aceptadas_con_errores": 0,
+    "verifactu_total_facturas_rechazadas": 1,
+    "numeros_facturas": {
+        "25005": "25002"
+    },
+    "enlaces_qr": {
+        "25005": "https:\/\/prewww2.aeat.es\/wlpl\/TIKE-CONT\/ValidarQR?nif=B91938662&numserie=25002&fecha=18-11-2025&importe=242.00"
+    }
+}

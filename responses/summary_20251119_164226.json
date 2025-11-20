@@ -1,0 +1,13 @@
+[
+    {
+        "id": "25448",
+        "empresa": "aBalados Services, S.L.",
+        "status": "ERROR_GENERACION_XML",
+        "details": "Error de timestamp: timestamp too large to convert to C PyTime_t",
+        "pdf_url": null,
+        "cliente": "aBalados Recycling, S.L.",
+        "importe": 5187.88,
+        "external_id": "25448",
+        "num_original": "25448"
+    }
+]

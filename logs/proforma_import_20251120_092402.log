@@ -1,0 +1,8 @@
+2025-11-20 09:24:04,401 - INFO - Archivo de fuente encontrado en: C:\Users\administracionaba\Desktop\FACTURANTIA\FactuNabo Cursor\resources\Ananda_Personal_Use.ttf
+2025-11-20 09:24:04,406 - INFO - Font ID retornado: 0
+2025-11-20 09:24:04,426 - INFO - Familias de fuente encontradas: ['Ananda']
+2025-11-20 09:24:04,427 - INFO - Usando familia de fuente: Ananda
+2025-11-20 09:24:04,488 - INFO - Fuente Ananda aplicada correctamente: Ananda
+2025-11-20 09:24:04,492 - INFO - Fuente actual del widget: Ananda
+2025-11-20 09:24:18,561 - INFO - Generando archivo .mmb con 1 facturas
+2025-11-20 09:24:18,911 - INFO - Archivo .mmb generado: C:/Users/administracionaba/Desktop/FACTURANTIA/FactuNabo Cursor/Facturas_Emitidas_20251120.mmb

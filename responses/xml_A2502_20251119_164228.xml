@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proformas>
+    <proforma>
+        <external_id>A2502</external_id>
+        <serie_factura>A25</serie_factura>
+        <ejercicio>2025</ejercicio>
+        <fecha_emision>2025-11-18</fecha_emision>
+        <fecha_vencimiento>2025-11-18</fecha_vencimiento>
+        <referencia>A2502</referencia>
+        <descripcion_general>Palazzo Pignano | Cremosano | Dovera | Polesina 2</descripcion_general>
+        <tipo_factura>F1</tipo_factura>
+        <cliente>
+            <tipo_persona>J</tipo_persona>
+            <nombre>TCO SOLAR SAS</nombre>
+            <tipo_documento>02</tipo_documento>
+            <numero_documento>FR25533970034</numero_documento>
+            <cuenta_contable>4300000</cuenta_contable>
+            <observacion/>
+            <tipo_residencia>U</tipo_residencia>
+            <codigo_pais>FRA</codigo_pais>
+            <provincia>Marseille (Francia)</provincia>
+            <poblacion>Marseille (Francia)</poblacion>
+            <domicilio>7 rue des mauvestis</domicilio>
+            <domicilio_2/>
+            <cp>13002</cp>
+            <telefono/>
+            <email/>
+        </cliente>
+        <permitir_email_y_afc>1</permitir_email_y_afc>
+        <conceptos>
+            <concepto>
+                <descripcion>Palazzo Pignano</descripcion>
+                <categoria>SERVICIOS</categoria>
+                <cuenta_contable>7050000</cuenta_contable>
+                <unidad_medida>01</unidad_medida>
+                <descripcion_larga/>
+                <unidades>1</unidades>
+                <base_unidad>1120.28</base_unidad>
+                <fiscalidad_especial>
+                    <clave_regimen>01</clave_regimen>
+                    <tipo>E5</tipo>
+                    <justificacion>Operación exenta de IVA (art. 25 LIVA – entrega intracomunitaria).</justificacion>
+                </fiscalidad_especial>
+                <total_impuestos_retenidos>0</total_impuestos_retenidos>
+                <total_impuestos_repercutidos>0</total_impuestos_repercutidos>
+                <importe_bruto>1120.28</importe_bruto>
+                <base_imponible>1120.28</base_imponible>
+                <importe_total>1120.28</importe_total>
+            </concepto>
+            <concepto>
+                <descripcion>Cremosano</descripcion>
+                <categoria>SERVICIOS</categoria>
+                <cuenta_contable>7050000</cuenta_contable>
+                <unidad_medida>01</unidad_medida>
+                <descripcion_larga/>
+                <unidades>1</unidades>
+                <base_unidad>1120.28</base_unidad>
+                <fiscalidad_especial>
+                    <clave_regimen>01</clave_regimen>
+                    <tipo>E5</tipo>
+                    <justificacion>Operación exenta de IVA (art. 25 LIVA – entrega intracomunitaria).</justificacion>
+                </fiscalidad_especial>
+                <total_impuestos_retenidos>0</total_impuestos_retenidos>
+                <total_impuestos_repercutidos>0</total_impuestos_repercutidos>
+                <importe_bruto>1120.28</importe_bruto>
+                <base_imponible>1120.28</base_imponible>
+                <importe_total>1120.28</importe_total>
+            </concepto>
+            <concepto>
+                <descripcion>Dovera</descripcion>
+                <categoria>SERVICIOS</categoria>
+                <cuenta_contable>7050000</cuenta_contable>
+                <unidad_medida>01</unidad_medida>
+                <descripcion_larga/>
+                <unidades>1</unidades>
+                <base_unidad>1120.28</base_unidad>
+                <fiscalidad_especial>
+                    <clave_regimen>01</clave_regimen>
+                    <tipo>E5</tipo>
+                    <justificacion>Operación exenta de IVA (art. 25 LIVA – entrega intracomunitaria).</justificacion>
+                </fiscalidad_especial>
+                <total_impuestos_retenidos>0</total_impuestos_retenidos>
+                <total_impuestos_repercutidos>0</total_impuestos_repercutidos>
+                <importe_bruto>1120.28</importe_bruto>
+                <base_imponible>1120.28</base_imponible>
+                <importe_total>1120.28</importe_total>
+            </concepto>
+            <concepto>
+                <descripcion>Polesina 2</descripcion>
+                <categoria>SERVICIOS</categoria>
+                <cuenta_contable>7050000</cuenta_contable>
+                <unidad_medida>01</unidad_medida>
+                <descripcion_larga/>
+                <unidades>1</unidades>
+                <base_unidad>1120.28</base_unidad>
+                <fiscalidad_especial>
+                    <clave_regimen>01</clave_regimen>
+                    <tipo>E5</tipo>
+                    <justificacion>Operación exenta de IVA (art. 25 LIVA – entrega intracomunitaria).</justificacion>
+                </fiscalidad_especial>
+                <total_impuestos_retenidos>0</total_impuestos_retenidos>
+                <total_impuestos_repercutidos>0</total_impuestos_repercutidos>
+                <importe_bruto>1120.28</importe_bruto>
+                <base_imponible>1120.28</base_imponible>
+                <importe_total>1120.28</importe_total>
+            </concepto>
+            <concepto>
+                <descripcion>Polesine 3</descripcion>
+                <categoria>SERVICIOS</categoria>
+                <cuenta_contable>7050000</cuenta_contable>
+                <unidad_medida>01</unidad_medida>
+                <descripcion_larga/>
+                <unidades>1</unidades>
+                <base_unidad>1120.28</base_unidad>
+                <fiscalidad_especial>
+                    <clave_regimen>01</clave_regimen>
+                    <tipo>E5</tipo>
+                    <justificacion>Operación exenta de IVA (art. 25 LIVA – entrega intracomunitaria).</justificacion>
+                </fiscalidad_especial>
+                <total_impuestos_retenidos>0</total_impuestos_retenidos>
+                <total_impuestos_repercutidos>0</total_impuestos_repercutidos>
+                <importe_bruto>1120.28</importe_bruto>
+                <base_imponible>1120.28</base_imponible>
+                <importe_total>1120.28</importe_total>
+            </concepto>
+        </conceptos>
+        <conceptos_textos>
+            <concepto_texto>
+                <posicion>0</posicion>
+                <descripcion>MONITORING SERVICES - 1Q2025</descripcion>
+            </concepto_texto>
+            <concepto_texto>
+                <posicion>6</posicion>
+                <descripcion>PCI 2024-25 2.8%</descripcion>
+            </concepto_texto>
+        </conceptos_textos>
+        <importe_bruto>5601.40</importe_bruto>
+        <total_importe_bruto>5601.40</total_importe_bruto>
+        <total_impuestos_repercutidos>0</total_impuestos_repercutidos>
+        <total_impuestos_retenidos>0</total_impuestos_retenidos>
+        <importe_total>5601.40</importe_total>
+        <total_subvenciones>0</total_subvenciones>
+        <total_anticipos>0</total_anticipos>
+        <total_a_pagar>5601.40</total_a_pagar>
+        <total_suplidos>0</total_suplidos>
+        <total_gastos_financieros>0</total_gastos_financieros>
+        <total_retencion>0</total_retencion>
+        <total_pagos_especie>0</total_pagos_especie>
+        <total_a_ejecutar>5601.40</total_a_ejecutar>
+        <forma_pago>
+            <metodo>transferencia</metodo>
+            <transferencia_banco>ABANCA</transferencia_banco>
+            <transferencia_beneficiario>aBalados Services, S.L.</transferencia_beneficiario>
+            <transferencia_concepto>Pago Factura</transferencia_concepto>
+            <transferencia_iban>ES8520803509113040096171</transferencia_iban>
+            <transferencia_bic>CAGLESMMXXX</transferencia_bic>
+        </forma_pago>
+        <literales_legales>Operación exenta de IVA (art. 25 LIVA – entrega intracomunitaria).</literales_legales>
+        <texto_libre/>
+        <plantilla_facturas_emitidas/>
+        <plantilla_facturas_proforma/>
+    </proforma>
+</proformas>

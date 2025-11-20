@@ -1,0 +1,19 @@
+2025-11-20 10:15:07,307 - INFO - Archivo de fuente encontrado en: C:\Users\administracionaba\Desktop\FACTURANTIA\FactuNabo Cursor\resources\Ananda_Personal_Use.ttf
+2025-11-20 10:15:07,314 - INFO - Font ID retornado: 0
+2025-11-20 10:15:07,315 - INFO - Familias de fuente encontradas: ['Ananda']
+2025-11-20 10:15:07,317 - INFO - Usando familia de fuente: Ananda
+2025-11-20 10:15:07,379 - INFO - Fuente Ananda aplicada correctamente: Ananda
+2025-11-20 10:15:07,381 - INFO - Fuente actual del widget: Ananda
+2025-11-20 10:15:43,887 - INFO - 💾 XML guardado en: logs\aBalados_Services,_SL_proforma_25449_20251120_101543.xml
+2025-11-20 10:15:43,888 - INFO - 💾 XML copiado en: responses\xml_25449_20251120_101543.xml
+2025-11-20 10:15:44,871 - INFO - ↳ API raw guardada en: responses\api_25449_20251120_101544.json
+2025-11-20 10:15:44,875 - INFO - 📱 Enlace QR tributario recibido para 25449
+2025-11-20 10:15:44,875 - INFO - ✅ Envío correcto para 25449 (aBalados Services, S.L.)
+2025-11-20 10:15:44,882 - INFO - 📝 Resumen guardado en: responses\summary.json
+2025-11-20 10:15:47,725 - INFO - 🧾 Post-proceso Excel Macro completado (MARK).
+2025-11-20 10:16:05,438 - INFO - Generando archivo .mmb con 1 facturas
+2025-11-20 10:16:05,439 - INFO - Buscando código de cliente para empresa 'aBalados Services, S.L.' en Excel: C:/Users/administracionaba/Desktop/FACTURANTIA/FactuNabo Cursor/Resumen FRAs 2025 aBalados Services_macro.xlsm
+2025-11-20 10:16:05,798 - WARNING - No se encontró cuenta contable para empresa 'aBalados Services, S.L.' en Excel C:/Users/administracionaba/Desktop/FACTURANTIA/FactuNabo Cursor/Resumen FRAs 2025 aBalados Services_macro.xlsm
+2025-11-20 10:16:05,800 - WARNING - No se encontró código de cliente para 'aBalados Services, S.L.' en Excel C:/Users/administracionaba/Desktop/FACTURANTIA/FactuNabo Cursor/Resumen FRAs 2025 aBalados Services_macro.xlsm
+2025-11-20 10:16:05,802 - INFO - Factura 25449: Datos finales - importe BD: 5187.88, base: 4640.0, IVA_importe: 0.0, IVA_%: 21.0, total: 4640.0, codigo_cliente: NO ENCONTRADO
+2025-11-20 10:16:05,811 - INFO - Archivo .mmb generado: C:/Users/administracionaba/Desktop/FACTURANTIA/Facturas_Emitidas_20251120.mmb

@@ -1,0 +1,83 @@
+[
+    {
+        "id": "25005",
+        "empresa": "aBalados Services, S.L.",
+        "status": "ÉXITO",
+        "details": {
+            "estado_envio_facturantia": "CORRECTO",
+            "tipo_sif": "VERIFACTU",
+            "verifactu_total_facturas_enviadas": 1,
+            "verifactu_total_facturas_correctas": 0,
+            "verifactu_total_facturas_aceptadas_con_errores": 0,
+            "verifactu_total_facturas_rechazadas": 1,
+            "numeros_facturas": {
+                "25005": "25002"
+            },
+            "enlaces_qr": {
+                "25005": "https://prewww2.aeat.es/wlpl/TIKE-CONT/ValidarQR?nif=B91938662&numserie=25002&fecha=18-11-2025&importe=242.00"
+            }
+        },
+        "pdf_url": "https://www.facturantia.com/ver_afc_api.php?auid=762687769&aen=aBalados%20Services%2C%20S.L.&aej=2025&aeid=25005&acn=B67864884",
+        "enlace_qr": "https://prewww2.aeat.es/wlpl/TIKE-CONT/ValidarQR?nif=B91938662&numserie=25002&fecha=18-11-2025&importe=242.00",
+        "cliente": "Gazules Renovables, S.L.",
+        "importe": 242.0,
+        "external_id": "25005",
+        "num_original": "25005",
+        "numero_asignado": "25002",
+        "pdf_local_path": "C:\\Users\\administracionaba\\FactuNabo\\Facturas PDF\\25002 - Gazules Renovables, S.L. - 242,00 €.pdf"
+    },
+    {
+        "id": "A2502",
+        "empresa": "aBalados Services, S.L.",
+        "status": "ÉXITO",
+        "details": {
+            "estado_envio_facturantia": "CORRECTO",
+            "tipo_sif": "VERIFACTU",
+            "verifactu_total_facturas_enviadas": 1,
+            "verifactu_total_facturas_correctas": 1,
+            "verifactu_total_facturas_aceptadas_con_errores": 0,
+            "verifactu_total_facturas_rechazadas": 0,
+            "numeros_facturas": {
+                "A2502": "A25002"
+            },
+            "enlaces_qr": {
+                "A2502": "https://prewww2.aeat.es/wlpl/TIKE-CONT/ValidarQR?nif=B91938662&numserie=A25002&fecha=18-11-2025&importe=5601.40"
+            }
+        },
+        "pdf_url": "https://www.facturantia.com/ver_afc_api.php?auid=762687769&aen=aBalados%20Services%2C%20S.L.&aej=2025&aeid=A2502&acn=FR25533970034",
+        "enlace_qr": "https://prewww2.aeat.es/wlpl/TIKE-CONT/ValidarQR?nif=B91938662&numserie=A25002&fecha=18-11-2025&importe=5601.40",
+        "cliente": "TCO SOLAR SAS",
+        "importe": 5601.4,
+        "external_id": "A2502",
+        "num_original": "A2502",
+        "numero_asignado": "A25002",
+        "pdf_local_path": "C:\\Users\\administracionaba\\FactuNabo\\Facturas PDF\\A25002 - TCO SOLAR SAS - 5.601,40 €.pdf"
+    },
+    {
+        "id": "Int25_002",
+        "empresa": "aBalados Services, S.L.",
+        "status": "ÉXITO",
+        "details": {
+            "estado_envio_facturantia": "CORRECTO",
+            "tipo_sif": "VERIFACTU",
+            "verifactu_total_facturas_enviadas": 1,
+            "verifactu_total_facturas_correctas": 1,
+            "verifactu_total_facturas_aceptadas_con_errores": 0,
+            "verifactu_total_facturas_rechazadas": 0,
+            "numeros_facturas": {
+                "Int25_002": "Int25_002"
+            },
+            "enlaces_qr": {
+                "Int25_002": "https://prewww2.aeat.es/wlpl/TIKE-CONT/ValidarQR?nif=B91938662&numserie=Int25_002&fecha=18-11-2025&importe=1019.84"
+            }
+        },
+        "pdf_url": "https://www.facturantia.com/ver_afc_api.php?auid=762687769&aen=aBalados%20Services%2C%20S.L.&aej=2025&aeid=Int25_002&acn=B91559971",
+        "enlace_qr": "https://prewww2.aeat.es/wlpl/TIKE-CONT/ValidarQR?nif=B91938662&numserie=Int25_002&fecha=18-11-2025&importe=1019.84",
+        "cliente": "aBalados S.L.U.",
+        "importe": 826.07,
+        "external_id": "Int25_002",
+        "num_original": "Int25_002",
+        "numero_asignado": "Int25_002",
+        "pdf_local_path": "C:\\Users\\administracionaba\\FactuNabo\\Facturas PDF\\Int25_002 - aBalados S.L.U. - 826,07 €.pdf"
+    }
+]
